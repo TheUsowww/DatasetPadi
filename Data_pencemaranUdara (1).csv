@@ -1,0 +1,98 @@
+Hari ,Tanggal,AQI,PM 2.5,PM 10,O3,NO2,SO2,Kualitas
+Sunday,25-Feb,58,15.3,11.1,61.5,26.5,7.6,Sedang
+Monday,26-Feb,79,25.5,23.5,63.4,19,4.7,Sedang
+Tuesday,27-Feb,99,35.1,22.7,63.7,18.3,5.8,Sedang
+Wednesday,28-Feb,78,24.9,33.6,59.9,17,5.2,Sedang
+Thursday,29-Feb,86,28.8,30.7,42.5,15.3,5.3,Sedang
+Friday,1-Mar,92,31.9,38.3,52.4,14.9,6.2,Sedang
+Saturday,2-Mar,82,26.9,51.1,45.4,16.2,5.8,Sedang
+Sunday,3-Mar,78,25,32.3,52.4,16.9,6.4,Sedang
+Monday,4-Mar,54,13.6,22.7,33.9,20,9.4,Sedang
+Tuesday,5-Mar,52,12.4,17.8,43.8,17.6,5.2,Sedang
+Wednesday,6-Mar,50,12,5.6,38.1,18.1,5.1,Baik
+Thursday,7-Mar,34,8.2,5,37.8,17.2,5,Baik
+Friday,8-Mar,52,12.6,13.4,40.6,16.8,4.8,Sedang
+Saturday,9-Mar,113,40.5,44.6,49.4,14.1,5.3,Buruk
+Sunday,10-Mar,99,35.2,57.8,48,13.4,7.6,Sedang
+Monday,11-Mar,75,23.5,41.2,44.8,16.3,6.3,Sedang
+Tuesday,12-Mar,104,36.6,41.9,63.2,16.6,5.2,Buruk
+Wednesday,13-Mar,94,32.4,53.5,48.7,15.3,5.4,Sedang
+Thursday,14-Mar,77,24.4,55.2,45.4,13.3,5.5,Sedang
+Friday,15-Mar,54,13.3,24.5,41.9,13.1,5,Sedang
+Saturday,16-Mar,52,12.8,17.6,43.7,11.8,4.5,Sedang
+Sunday,17-Mar,53,13.1,17.6,49.3,11.6,4.3,Sedang
+Monday,18-Mar,62,17.4,17.1,46,14.2,4.7,Sedang
+Tuesday,19-Mar,55,13.8,15.4,48.9,16.5,5.2,Sedang
+Wednesday,20-Mar,57,14.8,12.2,45.2,17.2,5.4,Sedang
+Thursday,21-Mar,66,19.4,20.6,43.6,17.2,5.9,Sedang
+Friday,22-Mar,134,48.9,33.1,50.8,17.2,7.7,Buruk
+Saturday,23-Mar,152,58.3,99.9,54.1,17.7,11.5,Sangat Buruk
+Sunday,24-Mar,116,41.5,67.4,55,17.7,7.3,Buruk
+Monday,25-Mar,123,44.3,44.5,50.1,17.3,6.8,Buruk
+Tuesday,26-Mar,134,48.9,67.5,31.9,16.7,7.7,Buruk
+Wednesday,27-Mar,151,56.1,,9.7,,,Sangat Buruk
+Thursday,28-Mar,155,63.8,,9,,,Sangat Buruk
+Friday,29-Mar,151,56.4,,7.5,,,Sangat Buruk
+Saturday,30-Mar,146,53.8,,16.4,,,Buruk
+Sunday,31-Mar,157,67.1,,5.5,,,Sangat Buruk
+Monday,1-Apr,161,74.5,,15,,,Sangat Buruk
+Tuesday,2-Apr,156,65.2,77.3,12.3,,,Sangat Buruk
+Wednesday,3-Apr,118,42.5,46.1,17.3,,,Buruk
+Thursday,4-Apr,157,66.9,69.3,9.4,,,Sangat Buruk
+Friday,5-Apr,154,61.2,66.4,11.2,,,Sangat Buruk
+Saturday,6-Apr,113,40.6,53.8,16.1,,,Buruk
+Sunday,7-Apr,123,44.3,55.5,55.7,,,Buruk
+Monday,8-Apr,71,21.7,36.1,3.8,,,Sedang
+Tuesday,9-Apr,145,53.4,69,21.4,,,Buruk
+Wednesday,10-Apr,91,31.2,51.2,8.9,,,Sedang
+Thursday,11-Apr,72,22.1,29.4,24.7,,,Sedang
+Friday,12-Apr,91,31.2,34.7,45.5,,,Sedang
+Saturday,13-Apr,78,24.9,32.2,28.5,,,Sedang
+Sunday,14-Apr,83,27.2,31.1,48.8,,,Sedang
+Monday,15-Apr,67,19.9,29.7,19.6,,,Sedang
+Tuesday,16-Apr,100,35.4,56.4,40.3,,,Sedang
+Wednesday,17-Apr,118,42.6,62,41.3,,,Buruk
+Thursday,18-Apr,85,28.1,48,56.7,,,Sedang
+Friday,19-Apr,127,46,66.4,43,,,Buruk
+Saturday,20-Apr,112,39.8,50.5,47.1,,,Buruk
+Sunday,21-Apr,110,39,40,39.5,,,Buruk
+Monday,22-Apr,109,38.7,53.3,26.9,,,Buruk
+Tuesday,23-Apr,122,43.9,61.5,29.9,,,Buruk
+Wednesday,24-Apr,149,55.1,61.6,66.5,,,Buruk
+Thursday,25-Apr,110,39.1,49.4,53.3,,16.8,Buruk
+Friday,26-Apr,116,41.7,61.9,38,,,Buruk
+Saturday,27-Apr,95,33,47.2,28.2,,,Sedang
+Sunday,28-Apr,110,39,52.7,72.7,,,Buruk
+Monday,29-Apr,103,36.4,47.4,49.5,,,Buruk
+Tuesday,30-Apr,103,36.3,53.4,55.3,,,Buruk
+Wednesday,1-May,137,50.1,59.4,58.7,,,Buruk
+Thursday,2-May,152,57.1,0,50.9,,,Sangat Buruk
+Friday,3-May,156,62.9,0,25.5,,,Sangat Buruk
+Saturday,4-May,154,59.9,0,53.8,,,Sangat Buruk
+Sunday,5-May,151,55.5,0,68.9,,,Sangat Buruk
+Monday,6-May,156,62.3,54,55.9,,,Sangat Buruk
+Tuesday,7-May,155,60.8,71,69.5,,,Sangat Buruk
+Wednesday,8-May,164,74.4,78.5,55.1,,,Sangat Buruk
+Thursday,9-May,156,63.3,81.3,57.9,63.4,3.9,Sangat Buruk
+Friday,10-May,146,53.7,66.6,58.3,63,3.1,Buruk
+Saturday,11-May,133,48.7,53.8,51.9,47.6,3.8,Buruk
+Sunday,12-May,111,39.6,57.6,52.6,17.1,6.6,Buruk
+Monday,13-May,153,58.9,58.8,54,17.3,6.3,Sangat Buruk
+Tuesday,14-May,161,69.8,75.8,42.8,17.8,8,Sangat Buruk
+Wednesday,15-May,158,65.6,86.9,56.3,16.3,7.6,Sangat Buruk
+Thursday,16-May,,,,,,,
+Friday,17-May,161,69.4,72.5,54.2,15.7,6.5,Sangat Buruk
+Saturday,18-May,158,65.5,83.7,57.7,16,9,Sangat Buruk
+Sunday,19-May,154,60.4,69.4,68.5,16,9.4,Sangat Buruk
+Monday,20-May,160,67.9,75.8,64,15.8,7.5,Sangat Buruk
+Tuesday,21-May,160,68.7,78.6,66.4,15.3,6.4,Sangat Buruk
+Wednesday,22-May,157,64.5,82.9,63.3,15.2,6.3,Sangat Buruk
+Thursday,23-May,153,58.6,71.9,51.4,14.6,6,Sangat Buruk
+Friday,24-May,96,33.2,59.7,52.5,14.7,6.1,Sedang
+Saturday,25-May,146,53.8,52,50.5,14.6,5.8,Buruk
+Sunday,26-May,161,69.3,87.9,68.2,14.7,7.8,Sangat Buruk
+Monday,27-May,164,73.5,77.4,62.8,15.6,8.3,Sangat Buruk
+Tuesday,28-May,161,69.6,85.6,57.4,15.6,9.3,Sangat Buruk
+Wednesday,29-May,147,54.3,66.5,50.6,74.8,14,Buruk
+Thursday,30-May,165,75.5,72.4,61.2,75.3,15.8,Sangat Buruk
+Friday,31-May,169,81,87.7,60.1,75.1,16.9,Sangat Buruk
